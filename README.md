@@ -47,6 +47,7 @@ Permitir que os usuários publiquem artigos concluídos, tornando-os visíveis p
 ## Criando ou importando o banco de dados.
 
 - Diagramas
+
 ![tabela ofc talentos](https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/ac789bda-0ccc-4046-bc00-5b19bb138d98)
 
 
