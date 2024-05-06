@@ -1,5 +1,5 @@
-# Nome do projeto: Talentos desempregados
-# Nome dos alunos: Mateus Vinicius, Camila Alves, Pablo ,Eva 
+## Nome do projeto: Talentos desempregados
+## Nome dos alunos: Mateus Vinicius, Camila Alves, Pablo ,Eva 
 
 Nosso site tem objetivo geral que conecta freelancers a clientes que procuram serviços em diversas áreas da tecnologia, desde desenvolvimento web e design, artista IA até marketing, e muito mais.
 Nosso site permitirá que freelancers criem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio, certificações  e outras mídias relevantes.
