@@ -1,12 +1,12 @@
 # PCC_TDE_2024
 
-O objetivo geral do projeto é um site fiquiticio online que conecta freelancers a clientes que procuram serviços em uma variedade de áreas, desde desenvolvimento web e design até marketing, consultoria e muito mais.
+O objetivo geral do projeto é um site fiquiticio online que conecta freelancers a clientes que procuram serviços em diversas áreas da tecnologia, desde desenvolvimento web e design, artista IA até marketing, e muito mais.
 
 ### Funcionalidades ou requisítos
 
 - CRUD de perfis
 
-Permitir que freelancers criem e atualizem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio e certificações.
+Permitir que freelancers criem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio e certificações.
 Capacidade de fazer upload de uma foto de perfil e outras mídias relevantes.
 Opções para definir disponibilidade, taxas horárias e preferências de trabalho.
 
