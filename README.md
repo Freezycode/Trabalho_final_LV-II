@@ -1,24 +1,14 @@
-# PCC_TDE_2024
+# Nome do projeto: Talentos desempregados
+# Nome dos alunos: Mateus Vinicius, Camila Alves, Pablo ,Eva 
 
-O objetivo geral do projeto é um site fiquiticio online que conecta freelancers a clientes que procuram serviços em diversas áreas da tecnologia, desde desenvolvimento web e design, artista IA até marketing, e muito mais.
+Nosso site tem objetivo geral que conecta freelancers a clientes que procuram serviços em diversas áreas da tecnologia, desde desenvolvimento web e design, artista IA até marketing, e muito mais.
 
-### Funcionalidades ou requisítos
+Nosso site permitirá que freelancers criem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio, certificações  e outras mídias relevantes.
+Opções para definir disponibilidade, taxas horárias e preferências de trabalho e prazo de entrega de seus serviços.
 
-- CRUD de perfis
+Já os  que usuários  que irão se registrem na plataforma, fornecendo informações básicas como nome, endereço de e-mail e senha.
+Tendo opção para definir a contratação do freelancer definindo valores, definições do projeto e atualizem categorias de projetos, como desenvolvimento web, design gráfico, marketing, artistas IA. 
 
-Permitir que freelancers criem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio e certificações.
-Capacidade de fazer upload de uma foto de perfil e outras mídias relevantes.
-Opções para definir disponibilidade, taxas horárias e preferências de trabalho.
-
-- CRUD de usuários
-
-Permitir que novos usuários se registrem na plataforma, fornecendo informações básicas como nome, endereço de e-mail e senha.
-Capacidade de os usuários completarem seus perfis, adicionando informações pessoais, experiência, habilidades, educação e outras informações relevantes.
-Opções para adicionar uma foto de perfil e outras mídias pertinentes.
-
-- CRUD de categorias
-
-Permitir que clientes criem e atualizem categorias de projetos, como desenvolvimento web, design gráfico, etc.
 
 - CRUD de artigos
 
