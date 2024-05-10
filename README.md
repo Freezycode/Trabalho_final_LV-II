@@ -32,6 +32,7 @@ Permitir que os usuários publiquem artigos concluídos, tornando-os visíveis p
 
 - Diagramas
 
-![tabela ofc talentos](https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/ac789bda-0ccc-4046-bc00-5b19bb138d98)
+![diagrama_banco_de_dados_talentos_mateus](https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/29ee75c0-75eb-457a-be4a-4d52942d22a3)
+
 
 
