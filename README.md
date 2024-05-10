@@ -3,12 +3,11 @@
 
 Nosso site tem objetivo geral que conecta freelancers a clientes que procuram serviços em diversas áreas da tecnologia, desde desenvolvimento web e design, artista IA até marketing, e muito mais.
 Nosso site permitirá que freelancers criem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio, certificações  e outras mídias relevantes.
-Opções para definir disponibilidade, taxas horárias e preferências de trabalho e prazo de entrega de seus serviços.
-Já os  que usuários  que irão se registrem na plataforma, fornecendo informações básicas como nome, endereço de e-mail e senha.
+Valorizamos a transparência e a flexibilidade. Portanto, permitimos que os freelancers definam sua disponibilidade de trabalho, taxas horárias competitivas e preferências de projeto. Essas informações detalhadas ajudam os clientes a entender melhor a disponibilidade e os processos de trabalho dos freelancers, promovendo uma comunicação clara e eficaz desde o início.
+Nosso processo de registro simplificado garante uma experiência sem complicações para os clientes. Eles podem se inscrever facilmente, fornecendo apenas informações básicas, como, endereço de e-mail e senha, para começar a explorar nossa plataforma e acessar uma ampla gama de talentos em tecnologia.
 Tendo opção para definir a contratação do freelancer definindo valores, definições do projeto e atualizem categorias de projetos, como desenvolvimento web, design gráfico, marketing, artistas IA. 
 Permitir que os usuários publiquem artigos concluídos, tornando-os visíveis para outros usuários na plataforma, e comentarios sobre os serviços.
-
-- CRUD de avaliação dos artigos
+Nosso site de freelancer não é apenas uma plataforma de contratação, mas sim uma comunidade dinâmica e colaborativa onde talentos excepcionais se encontram, colaboram e prosperam. Com uma abordagem centrada no usuário, recursos avançados e uma cultura de transparência e excelência, estamos comprometidos em oferecer uma experiência única e impactante para freelancers e clientes, impulsionando o sucesso e a inovação em todos os projetos.
 
 ## Tecnologias
 - PHP 7.4 ou superior
