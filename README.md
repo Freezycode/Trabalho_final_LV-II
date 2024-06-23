@@ -1,5 +1,5 @@
 ## Nome do projeto: Talentos desempregados
-## Nome dos alunos: Mateus Vinicius, Camila Alves, Pablo ,Eva 
+## Nome dos alunos: Mateus Vinicius, Camila Alves, Pablo
 
 Nosso site tem objetivo geral que conecta freelancers a clientes que procuram serviços em diversas áreas da tecnologia, desde desenvolvimento web e design, artista IA até marketing, e muito mais.
 Nosso site permitirá que freelancers criem seus perfis, incluindo informações como habilidades, histórico de trabalho, portfólio, certificações  e outras mídias relevantes.
@@ -32,6 +32,9 @@ Nosso site de freelancer não é apenas uma plataforma de contratação, mas sim
 - Diagramas
 
 ![diagrama_banco_de_dados_talentos_mateus](https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/29ee75c0-75eb-457a-be4a-4d52942d22a3)
+
+- Diagrama caso de uso
+![caso de uso camila](https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/c2009ea3-6653-4c05-a3ed-acd17cf247d5)
 
 
 
