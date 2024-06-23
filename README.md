@@ -31,7 +31,8 @@ Nosso site de freelancer não é apenas uma plataforma de contratação, mas sim
 
 - Diagramas
 
-<img width="310" alt="Img banco de dados Talentos" src="https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/06dcd21a-608c-4f2a-9b79-87e9bd7dd15b">
+![Imagem TALENTOS banco de dados](https://github.com/Freezycode/talentos-desempregados-ofc/assets/164433371/a1640476-1cde-4322-b394-bc4d37cb95a4)
+
 
 
 - Diagrama caso de uso
