@@ -1,0 +1,68 @@
+.card1 {
+    margin-bottom: 20px;
+    border: 2px solid #5de25d; 
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    padding: 20px; 
+}
+
+.card1-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #333;
+}
+
+.card1-text {
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+    color: #666;
+}
+
+.card1-requisitos {
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+    color: #666;
+}
+
+.card1-remuneracao {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+    color: #333;
+}
+
+.text-right {
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.text-right p {
+    margin: 0;
+}
+
+.card1 .btn {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+    width: auto;
+    margin-top: 10px;
+}
+
+.container.mt-5 {
+    max-width: 75%;
+    margin: auto;
+}
+
+.card1-body {
+    padding: 20px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
