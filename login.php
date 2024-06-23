@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 // Conexão com o banco de dados
 $servername = "localhost";
 $username = "root";
@@ -32,3 +33,45 @@ if ($result->num_rows > 0) {
 
 $conn->close();
 ?>
+=======
+session_start();
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $email = $_POST['email'];
+    $senha = $_POST['password'];
+
+    $dsn = 'mysql:host=127.0.0.1;dbname=talentos;charset=utf8';
+    $conn = new PDO($dsn, 'root', '', [
+        PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
+    ]);
+
+    $query = 'SELECT * FROM usuarios WHERE email = :email;';
+    $stmt = $conn->prepare($query);
+    $stmt->bindValue(':email', $email, PDO::PARAM_STR);
+    $stmt->execute();
+    $usuario = $stmt->fetch(PDO::FETCH_ASSOC);
+    $isSenhaValida = $senha == $usuario['senha'];
+    
+    if ($usuario && $isSenhaValida) {
+        $_SESSION['usuario'] = [
+            'id_usuarios' => $usuario['id_usuarios'],
+            'nome' => $usuario['nome'],
+            'tipo' => $usuario['tipo'],
+        ];
+
+        if ($usuario['tipo'] === 'CANDIDATO') {
+            header('Location: candidato/index.php');
+        } else if ($usuario['tipo'] === 'Empresa') {
+            header('Location: empresa/index.php');
+        } else if ($usuario['tipo'] === 'Administrador') {
+            header('Location: administrador/index.php');
+        } else {
+            header('Location: index.php'); 
+        }
+        exit();
+    } else {
+        header('Location: logar.php?message=Usuário ou senha inválidos.');
+        exit();
+    }
+}
+?>
+>>>>>>> 831621a (atualizando o projeto final)
