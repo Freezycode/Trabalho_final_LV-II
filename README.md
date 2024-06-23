@@ -16,7 +16,7 @@ Nosso site de freelancer não é apenas uma plataforma de contratação, mas sim
 - CSS 3
 - Javascript
 - Bibliotecas Javascript (Jquery e SweetAlert2)
-- Google Fonts (Ubuntu)
+- Google Fonts 
 
 ## Ferramentas de desenvolvimento
 
